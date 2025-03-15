@@ -86,13 +86,13 @@ We apply two data mining techniques to the SMS Spam Collection Dataset. Classifi
 know the labels.
 
 ### Classification using Logistic Regression: 
-Using PyCaret, we'll set up the dataset, train multiple classification models, compare their performance,
+Using PyCaret, we set up the dataset, train multiple classification models, compare their performance,
 and select the best model for spam detection. Once the models are
 compared, PyCaret automatically ranks them based on performance
 metrics such as accuracy, precision, recall, and F1-score. 
 
 ### Clustering with K-Means: 
-We'll perform K-Means Clustering to explore the possibility of identifying natural clusters in the data. While we already have labels (spam or ham), clustering allows us to examine if the messages group naturally into distinct categories.
+We also perform K-Means Clustering to explore the possibility of identifying natural clusters in the data. While we already have labels (spam or ham), clustering allows us to examine if the messages group naturally into distinct categories.
 
 
 
