@@ -1,4 +1,4 @@
-# Analysing and predicting patterns in a SMS spam collection dataset using data mining techniques
+# Analysing Patterns in an SMS Spam Dataset Using Data Mining Techniques
 
 ## Project Overview
 Course Code: MIT 816
