@@ -51,7 +51,10 @@ inconsistencies:
 - Apply TF-IDF (Term Frequency-Inverse Document Frequency) transformation for feature extraction
 
 ## Exploratory Data Analysis (EDA)
-EDA includes:
+EDA helps in understanding the distribution of the data, identifying trends, and
+visualizing relationships between different features. In our case, we will focus
+on the distribution of the target labels (spam vs ham), the characteristics of the
+message text (e.g., message length), and the most frequently occurring words.
 - Label distribution (spam vs ham). We need to analyze how many messages are
 labeled as “spam” and how many as “ham” to check for any class imbalance.
 
