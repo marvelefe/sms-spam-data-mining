@@ -5,7 +5,7 @@ Course Code: MIT 816
 
 Course Title: Data Mining
 
-This assignment was submitted as part of the coursework requirements for the Master in Information Technology (MIT) program at the University of Lagos, Nigeria. 
+This assignment was submitted as part of my coursework requirements for the Master in Information Technology (MIT) program at the University of Lagos, Nigeria. 
 
 ---
 
