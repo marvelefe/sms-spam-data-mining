@@ -1,6 +1,14 @@
 # Analysing and predicting patterns in a SMS spam collection dataset using data mining techniques
 
 ## Project Overview
+Course Code: MIT 816
+
+Course Title: Data Mining
+
+This assignment was submitted as part of the coursework requirements for the Master in Information Technology (MIT) program at the University of Lagos, Nigeria. 
+
+---
+
 This project analyzes and predicts patterns in a SMS Spam Collection dataset using two data mining techniques; classification and clustering. The primary goal is to classify SMS messages as spam or ham (legitimate) using text processing, exploratory data analysis (EDA), and machine learning models.
 
 ## Dataset
