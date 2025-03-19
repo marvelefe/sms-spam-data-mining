@@ -128,7 +128,7 @@ promotional or urgent language like "text", "call" and "free". The logistic
 regression model performed quite well but will need to be further trained to be
 considered useful in real-world applications such as spam filters, etc.
 
-## Future Direction
+## Possible Improvements
 - Improve recall by using **ensemble methods** like Random Forest or XGBoost.  
 - Use **deep learning** (LSTMs, Transformers) for better text representation.
 
