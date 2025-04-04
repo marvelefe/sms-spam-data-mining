@@ -87,8 +87,7 @@ know the labels.
 
 ### Classification using Logistic Regression: 
 Using PyCaret, we set up the dataset, train multiple classification models, compare their performance,
-and select the best model for spam detection. Once the models are
-compared, PyCaret automatically ranks them based on performance
+and select the best model for spam detection. To compare the models, we rank them based on performance
 metrics such as accuracy, precision, recall, and F1-score. 
 
 ### Clustering with K-Means: 
