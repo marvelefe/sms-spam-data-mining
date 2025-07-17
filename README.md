@@ -1,9 +1,5 @@
-# Analysing Patterns in an SMS Spam Dataset Using Data Mining Techniques
-
 ## Project Overview
-Course Code: MIT 816
-
-Course Title: Data Mining
+Course: MIT 816 - Data Mining
 
 This assignment was submitted as part of my coursework requirements for the Master in Information Technology (MIT) program at the University of Lagos, Nigeria. 
 
